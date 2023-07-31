@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Studio Elizabeth Cady Stantonplein",
+    "price": "€655 per month",
+    "link": "https://www.pararius.com/studio-for-rent/amsterdam/d886ac17/elizabeth-cady-stantonplein"
+  },
+  {
+    "title": "Studio August Allebéplein",
+    "price": "€673 per month",
+    "link": "https://www.pararius.com/studio-for-rent/amsterdam/a74d70c1/august-allebeplein"
+  },
+  {
+    "title": "Project: Frame Building - Frame Building",
+    "price": "€825 - €2,600 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/e244e8a9/frame-building/frame-building"
+  },
+  {
+    "title": "Studio Prinseneiland 23 B",
+    "price": "€900 per month",
+    "link": "https://www.pararius.com/studio-for-rent/amsterdam/2cb149ac/prinseneiland"
+  },
+  {
+    "title": "Project: WesterparkWest - Pepper-Studio",
+    "price": "€985 - €1,075 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/e3ee4cce/westerparkwest/pepper-studio"
+  },
+  {
+    "title": "Project: WesterparkWest - Blend-Studio",
+    "price": "€1,065 - €1,075 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/42efee53/westerparkwest/blend-studio"
+  },
+  {
+    "title": "Project: De Prins - Type E",
+    "price": "€1,075 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/f7bed559/de-prins/type-e"
+  },
+  {
+    "title": "Flat Beemsterstraat 542 K3",
+    "price": "€1,095 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/4c4c6c59/beemsterstraat"
+  },
+  {
+    "title": "Project: De Prins - Type D",
+    "price": "€1,100 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/814b52ea/de-prins/type-d"
+  },
+  {
+    "title": "Project: WesterparkWest - Pepper-Tweekamerappartement",
+    "price": "€1,140 - €1,650 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/e5cabc55/westerparkwest/pepper-tweekamerappartement"
+  },
+  {
+    "title": "Project: De Prins - Type C",
+    "price": "€1,150 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/578e5cef/de-prins/type-c"
+  },
+  {
+    "title": "Project: WesterparkWest - Blend-Tweekamerappartement",
+    "price": "€1,160 - €1,830 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/0f29c2da/westerparkwest/blend-tweekamerappartement"
+  },
+  {
+    "title": "Project: De Prins - Type K",
+    "price": "€1,175 - €1,200 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/45687d29/de-prins/type-k"
+  },
+  {
+    "title": "Flat tt. Vasumweg",
+    "price": "€1,175 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/ce7e8b3d/tt-vasumweg"
+  },
+  {
+    "title": "Flat Heathrowstraat",
+    "price": "€1,175 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/df6d35ea/heathrowstraat"
+  },
+  {
+    "title": "Project: De Prins - Type I",
+    "price": "€1,180 - €1,200 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/7f6c11d3/de-prins/type-i"
+  },
+  {
+    "title": "Project: Cruquius 2.3 Berkhout - 2-kamer appartement",
+    "price": "€1,185 - €1,700 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/9e6df5b5/cruquius-2-3-berkhout/2-kamer-appartement"
+  },
+  {
+    "title": "House Kantershof 243",
+    "price": "€1,250 per month",
+    "link": "https://www.pararius.com/house-for-rent/amsterdam/26ea8cff/kantershof"
+  },
+  {
+    "title": "Flat Haarlemmerweg",
+    "price": "€1,255 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/db102e20/haarlemmerweg"
+  },
+  {
+    "title": "Flat Oudezijds Voorburgwal 43 C",
+    "price": "€1,300 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/1e631c94/oudezijds-voorburgwal"
+  },
+  {
+    "title": "Flat Korte Geuzenstraat",
+    "price": "€1,350 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/6a309769/korte-geuzenstraat"
+  },
+  {
+    "title": "Project: WesterparkWest - Blend-Driekamerappartement",
+    "price": "€1,350 - €2,245 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/3371cf37/westerparkwest/blend-driekamerappartement"
+  },
+  {
+    "title": "Studio Rookmelderstraat 54",
+    "price": "€1,375 per month",
+    "link": "https://www.pararius.com/studio-for-rent/amsterdam/0bb49f68/rookmelderstraat"
+  },
+  {
+    "title": "Flat Tweede Oosterparkstraat",
+    "price": "€1,380 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/0c65781f/tweede-oosterparkstraat"
+  },
+  {
+    "title": "Studio Spuistraat",
+    "price": "€1,395 per month",
+    "link": "https://www.pararius.com/studio-for-rent/amsterdam/417063e8/spuistraat"
+  },
+  {
+    "title": "Project: WesterparkWest - Blend-Vierkamerappartement",
+    "price": "€1,450 - €2,155 per month",
+    "link": "https://www.pararius.com/en/project/amsterdam/61e6d161/westerparkwest/blend-vierkamerappartement"
+  },
+  {
+    "title": "Studio Bos en Lommerplantsoen 27 C",
+    "price": "€1,475 per month",
+    "link": "https://www.pararius.com/studio-for-rent/amsterdam/756cfba1/bos-en-lommerplantsoen"
+  },
+  {
+    "title": "Flat Haparandaweg",
+    "price": "€1,484 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/58a4e633/haparandaweg"
+  },
+  {
+    "title": "Flat Egidiusstraat",
+    "price": "€1,495 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/0711a0ce/egidiusstraat"
+  },
+  {
+    "title": "Flat Rijswijkstraat 147 B",
+    "price": "€1,495 per month",
+    "link": "https://www.pararius.com/apartment-for-rent/amsterdam/4f57e924/rijswijkstraat"
+  }
+]

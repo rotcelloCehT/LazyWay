@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const path = require('path');
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -28,13 +29,26 @@ const fs = require('fs');
   const resultsJson = JSON.stringify(results, null, 2);
   console.log(resultsJson);
 
-  fs.writeFile('output.txt', resultsJson, (err) => {
-    if (err) {
-      console.error('Error writing to file:', err);
-    } else {
-      console.log('Data written to output.txt successfully.');
-    }
-  });
+  writeToFile("output", resultsJson);
 
   await browser.close();
 })();
+// 
+  // Functions
+// ========================================================================================
+
+function writeToFile(outputFileBaseName, data, currentNumber = 1) {
+  const outputFileName = `${outputFileBaseName}${currentNumber}.txt`;
+
+  if (fs.existsSync(outputFileName)) {
+    return writeToFile(outputFileBaseName, data, currentNumber + 1);
+  } else {
+    fs.writeFile(outputFileName, data, (err) => {
+      if (err) {
+        console.error('Error writing to file:', err);
+      } else {
+        console.log(`Data written to ${outputFileName} successfully.`);
+      }
+    });
+  }
+}
